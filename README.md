@@ -17,11 +17,11 @@ as a GCU student you are eligible for a 12-month Azure Subscription.*
 
 1. Go to https://azureforeducation.microsoft.com/devtools and Sign In using your GCU username and password.
 
-![image](https://user-images.githubusercontent.com/32605416/143666663-cbc51004-df28-4a7e-b04c-92ff5fbc392b.png)
+![image](https://user-images.githubusercontent.com/32605416/144755487-370c881d-d017-43d8-9c8d-61ffeff43d65.png)
 
 2. Once you have Signed In to the Azure Dev Tools for Education the first time you will need to activate your Student Azure Account.
 
-![image](https://user-images.githubusercontent.com/32605416/143666718-7e9d2774-b94f-41c5-a850-66dbee9c388b.png)
+![image](https://user-images.githubusercontent.com/32605416/144755709-fa291d97-f956-40a1-9279-8a9d4990f303.png)
 
 3. From this point forward, you will access your Azure subscription by logging into the [Azure Portal](https://portal.azure.com)
 
@@ -36,7 +36,7 @@ now that you have an Azure account you are ready to Provision your Azure environ
 
 2. Select PowerShell as the scripting language
 
-![image](https://user-images.githubusercontent.com/32605416/143921670-87777ea5-33eb-4439-9d67-c4447beabde0.png)
+![image](https://user-images.githubusercontent.com/32605416/144755334-ebe15b27-7e11-4f2a-b300-c0ade8f0c980.png)
 
 3. In the Azure Shell run the following command to copy the configuration files, this may take a couple of minutes.
 
